@@ -6,7 +6,7 @@ Para executar o projeto, você precisa de:
 ## Como Executar o Projeto
 1. Faça o download ou clone este repositório:
   
-   git@github.com:Gasparini-Dev/Jogo-Amigo-Secreto.git
+   git@github.com:Gasparini-Dev/Game-Amigo-Secreto.git
 
   
 2. Abra o arquivo `index.html` diretamente no navegador ou utilize uma extensão para servidores locais, como Live Server, no Visual Studio Code.
